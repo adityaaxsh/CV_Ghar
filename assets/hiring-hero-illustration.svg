@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Recruiter-led hiring process</title>
+  <desc id="desc">A recruiter and candidate review a hiring checklist, surrounded by candidate profiles and hiring analytics.</desc>
+  <defs>
+    <style>
+      .ink{stroke:#142b4c;stroke-linecap:round;stroke-linejoin:round}
+      .muted{stroke:#bfd4f1;stroke-linecap:round;stroke-linejoin:round}
+    </style>
+  </defs>
+
+  <!-- floating process marks -->
+  <path d="M94 291c-26 18-34 47-25 75m957-248c35 10 57 31 66 61m-16 316c18-13 28-31 31-54" stroke="#9fc2ed" stroke-width="3" stroke-dasharray="2 11" stroke-linecap="round"/>
+  <g transform="translate(88 386)" stroke="#8eb6e8" stroke-width="3" stroke-linecap="round">
+    <circle r="24"/><path d="M0-34v9m0 50v9m34-34h-9m-50 0h-9m58-24-7 7m-35 35-7 7m49 0-7-7m-35-35-7-7"/>
+  </g>
+  <g transform="translate(1080 101)" stroke="#8eb6e8" stroke-width="3" stroke-linecap="round">
+    <circle r="19"/><path d="M0-28v7m0 42v7m28-28h-7m-42 0h-7m48-20-5 5m-30 30-5 5m40 0-5-5m-30-30-5-5"/>
+  </g>
+
+  <!-- candidate cards -->
+  <g>
+    <rect x="52" y="143" width="205" height="124" rx="16" fill="#fff" stroke="#b7d0ee" stroke-width="3"/>
+    <circle cx="105" cy="202" r="34" fill="#e5f0ff"/>
+    <path d="M79 214c4-17 15-25 27-25s24 8 27 25v9H79v-9Z" fill="#2e82c7"/>
+    <path d="M88 191c0-13 8-22 19-22s19 9 19 22c0 12-8 20-19 20s-19-8-19-20Z" fill="#f2bd91"/>
+    <path d="M87 190c1-14 8-23 21-23 11 0 18 8 19 19-6-1-11-5-14-9-6 8-14 12-26 13Z" fill="#17345a"/>
+    <path d="M155 183h79M155 197h58" class="muted" stroke-width="8"/>
+    <circle cx="159" cy="226" r="4" fill="#18a957"/><circle cx="174" cy="226" r="4" fill="#18a957"/><circle cx="189" cy="226" r="4" fill="#18a957"/><circle cx="204" cy="226" r="4" fill="#18a957"/>
+  </g>
+  <g>
+    <rect x="53" y="518" width="190" height="111" rx="15" fill="#fff" stroke="#b7d0ee" stroke-width="3"/>
+    <circle cx="99" cy="570" r="30" fill="#e5f0ff"/>
+    <path d="M76 582c4-14 13-21 23-21s20 7 23 21v8H76v-8Z" fill="#1b4777"/>
+    <path d="M84 563c0-11 6-18 15-18s15 7 15 18-6 17-15 17-15-6-15-17Z" fill="#eeb78e"/>
+    <path d="M83 561c1-12 7-19 17-19 9 0 15 6 16 16-8 0-14-3-18-8-3 6-8 9-15 11Z" fill="#233856"/>
+    <path d="M139 556h73M139 570h53" class="muted" stroke-width="7"/>
+    <circle cx="143" cy="600" r="4" fill="#18a957"/><circle cx="158" cy="600" r="4" fill="#18a957"/><circle cx="173" cy="600" r="4" fill="#18a957"/>
+  </g>
+
+  <!-- hiring checklist board -->
+  <g>
+    <rect x="342" y="119" width="478" height="486" rx="22" fill="#fff" stroke="#a9c8ef" stroke-width="4"/>
+    <rect x="500" y="91" width="160" height="51" rx="13" fill="#15365e"/>
+    <circle cx="580" cy="92" r="10" fill="#f7fbff" stroke="#15365e" stroke-width="5"/>
+    <circle cx="394" cy="207" r="18" fill="#16a957"/><path d="m386 207 6 6 11-13" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M430 202h143M430 218h92" class="muted" stroke-width="9"/>
+    <circle cx="394" cy="286" r="18" fill="#16a957"/><path d="m386 286 6 6 11-13" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M430 281h139M430 297h90" class="muted" stroke-width="9"/>
+    <circle cx="394" cy="365" r="18" fill="#16a957"/><path d="m386 365 6 6 11-13" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M430 360h143M430 376h92" class="muted" stroke-width="9"/>
+    <circle cx="394" cy="444" r="18" fill="#16a957"/><path d="m386 444 6 6 11-13" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M430 439h143M430 455h92" class="muted" stroke-width="9"/>
+    <circle cx="394" cy="523" r="18" fill="#16a957"/><path d="m386 523 6 6 11-13" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M430 518h143M430 534h92" class="muted" stroke-width="9"/>
+    <circle cx="700" cy="234" r="43" fill="#e7f1ff"/>
+    <path d="M669 253c5-19 17-29 31-29s27 10 31 29v9h-62v-9Z" fill="#173a68"/>
+    <path d="M684 220c0-10 7-18 16-18s16 8 16 18-7 17-16 17-16-7-16-17Z" fill="#efbd96"/>
+    <path d="M667 303h68m-68 17h51m-51 45h68m-68 17h45" class="muted" stroke-width="8"/>
+  </g>
+
+  <!-- recruiter at laptop -->
+  <g>
+    <path d="M230 628v-80c0-20 16-36 36-36h39" class="ink" stroke-width="5"/>
+    <path d="M249 628h87m-77 0 25 34m53-34-19 34" class="ink" stroke-width="5"/>
+    <path d="M286 462c-20 3-35 17-39 39l-12 62 62 22 31-76c8-21-14-50-42-47Z" fill="#3c91cb" class="ink" stroke-width="4"/>
+    <path d="M269 429c0-25 14-42 37-42 22 0 37 17 37 42 0 24-15 39-37 39-23 0-37-15-37-39Z" fill="#f2bd91" class="ink" stroke-width="3"/>
+    <path d="M268 429c1-31 17-50 40-50 22 0 36 15 37 39-14-2-26-9-33-19-9 15-23 24-44 30Z" fill="#17345a"/>
+    <path d="M277 470 260 517m59-43 18 42m-45-23-23 42m55-42 25 37" class="ink" stroke-width="5"/>
+    <path d="M326 520h91l-10 69h-92l11-69Z" fill="#eaf3ff" class="ink" stroke-width="4"/>
+    <path d="M308 591h106l-11 9H298l10-9Z" fill="#9ebde3" class="ink" stroke-width="3"/>
+    <path d="M342 538h45m-49 12h38" class="muted" stroke-width="5"/>
+  </g>
+
+  <!-- hiring manager with tablet -->
+  <g>
+    <path d="M907 609v-70c0-19 15-34 34-34h31" class="ink" stroke-width="5"/>
+    <path d="M923 609h81m-70 0 24 35m46-35-18 35" class="ink" stroke-width="5"/>
+    <path d="M965 414c-4 24 5 47 23 56l-6 88h90l-12-91c20-11 26-32 20-56-7-27-28-40-58-40-33 0-52 15-57 43Z" fill="#1f4778" class="ink" stroke-width="4"/>
+    <path d="M983 390c0-24 14-40 36-40s36 16 36 40c0 23-14 39-36 39s-36-16-36-39Z" fill="#efbd96" class="ink" stroke-width="3"/>
+    <path d="M981 386c1-28 15-44 39-44 22 0 36 15 37 37-15-1-27-8-34-19-10 14-24 22-42 26Z" fill="#17345a"/>
+    <path d="m1004 433 15 18 15-18m-15 18v51" stroke="#18a957" stroke-width="6" stroke-linejoin="round"/>
+    <path d="M982 482 954 521m91-41 27 35" class="ink" stroke-width="6"/>
+    <rect x="945" y="492" width="73" height="53" rx="5" fill="#f4f8fe" stroke="#142b4c" stroke-width="4" transform="rotate(-12 945 492)"/>
+    <path d="m960 509 37-8m-33 19 27-6" class="muted" stroke-width="5"/>
+  </g>
+
+  <!-- floating analytics card and plant -->
+  <g>
+    <rect x="925" y="182" width="207" height="158" rx="16" fill="#fff" stroke="#b7d0ee" stroke-width="3"/>
+    <path d="M955 304h145" stroke="#d5e4f6" stroke-width="2"/>
+    <rect x="966" y="272" width="18" height="32" rx="4" fill="#9fc5eb"/><rect x="995" y="252" width="18" height="52" rx="4" fill="#65a8dc"/><rect x="1024" y="230" width="18" height="74" rx="4" fill="#2c7fbc"/><rect x="1053" y="211" width="18" height="93" rx="4" fill="#18a957"/>
+    <path d="m964 248 39-18 27 7 39-34" stroke="#18a957" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M1058 203h12v12" stroke="#18a957" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g transform="translate(1110 576)" stroke="#18a957" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M0 48V-42m0 28c-4-26-29-34-36-34 0 23 11 38 36 38Zm0 12c8-27 31-32 40-31-2 22-16 36-40 36Zm0-40c-1-24 16-39 30-43 5 19-3 35-30 43Z" fill="#b9e8cf"/>
+    <path d="M-28 49h57l-6 34h-45l-6-34Z" fill="#2f79b7" stroke="#173b63"/>
+  </g>
+</svg>
